@@ -1,5 +1,5 @@
 
-package controlador1;
+package controlador;
 
 /**
  *
