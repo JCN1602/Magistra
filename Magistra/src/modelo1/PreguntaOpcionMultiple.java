@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package Controlador;
+package modelo1;
 
 /**
  *
  * @author LAB-USR-ATE
  */
-public class PracticaController {
+public class PreguntaOpcionMultiple {
 
     /**
      * @param args the command line arguments
